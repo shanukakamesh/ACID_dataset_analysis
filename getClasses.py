@@ -8,24 +8,19 @@ from matplotlib.ticker import MultipleLocator
 folder_path = "D:\ACID dataset\Dataset\Detection Annotation (VOC format)"
 
 #Enter the name of  the csv file to save the category counts ending .csv 
-output_file_path = "category_count_data.csv"
+output_file_name = "category_count_data.csv"
+
+output_file_path = "results/" + output_file_name
 
 bbox_data = {}
 if folder_path:
-    # If a folder is selected, update the text in the txtImagePath widget
     for filename in os.listdir(folder_path):
         if filename.endswith('.xml'):
             xml_file = os.path.join(folder_path, filename)
-
-            # Parse the XML file
             tree = ET.parse(xml_file)
             root = tree.getroot()
-
-            # Extract file name
             image_filename = root.find('filename').text
             image_filename = image_filename.split('.')[0]
-
-            # Initialize list to store bounding box data for this image
             bbox_data[image_filename] = []
 
             # Iterate over each object in the XML
