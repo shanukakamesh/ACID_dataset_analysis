@@ -1,0 +1,6 @@
+-embark
+--000536.jpg
+---Mini dozer is ready to embark.
+--002762.jpg
+---A mobile crane is disembarking from a platform
+

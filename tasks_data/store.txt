@@ -1,0 +1,10 @@
+-store
+--000239.jpg
+---Loader is moving the store blocks 
+--000401.jpg
+---Mobile crane is located near the shopping store and has a fully erected jib
+--000629.jpg
+---A mobile crane is hoisting materials stored in a dump truck.
+--000642.jpg
+---Mobile crane is parked in the parking lot next to the three stores building
+

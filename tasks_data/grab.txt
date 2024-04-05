@@ -1,0 +1,21 @@
+-grab
+--000036.jpg
+---A wheel loader is grabbing soil to transport to the dump truck
+--000071.jpg
+---Wheel loader is approaching  a dump truck to grab the soil and dump it to truck
+--000120.jpg
+---An excavator is grabbing a bucket of gravel and an empty dump truck is waiting to be loaded by the excavator.
+---An excavator is grabbing a bucket of gravel.
+An empty dump truck is waiting to be loaded by the excavator.
+--000193.jpg
+---An excavator is about the grab a bucket of gravel on the ground.
+A wheel loader loaded a bucket of soil.
+The dump truck is waiting to be loaded.
+---An excavator is grabing a bucket of gravel on the ground and a wheel loader is loading a bucket of soil while a dump truck is waiting to be loaded.
+--000440.jpg
+---A wheel loader is turning its direction with an empty bucket.
+An excavator is grabbing a bucket of soil.
+---A wheel loader is turning its direction with an empty bucket and an excavator is grabbing a bucket of soil.
+--003277.jpg
+---A wheel loader is grabbing a bucket of soil from the ground.
+

@@ -1,0 +1,98 @@
+-paved
+--000123.jpg
+---Excavator is excavating the soil beside the unpaved road
+--000179.jpg
+---Grader is driving along the unpaved road.
+--000236.jpg
+---Grader is grading the surface of unpaved road.
+--000274.jpg
+---Grader is grading the unpaved road 
+--000343.jpg
+---A grader is levelling the surface of the unpaved road
+--000347.jpg
+---Grader is grading the unpaved road 
+--000369.jpg
+---Mobile crane is parked on paved area. 
+---Mobile crane is parked on paved area. 
+--000592.jpg
+---A grader is traveling on unpaved road.
+---Grader is moving along the unpaved road
+--000605.jpg
+---Dozer is clearing the unpaved road. Backhoe loader is moving towards the dozer
+--000607.jpg
+---Cement truck is driving on paved road.
+--000622.jpg
+---Wheel loader is operating on the paved surface.
+--001089.jpg
+---One dump truck is moving towards paved road.
+--001206.jpg
+---A compactor is positioning over paved surface.
+--001211.jpg
+---One mobile crane is moving over paved road.
+--001368.jpg
+---A backhoe loader is turning away from paved road.
+--001440.jpg
+---One concrete mixer truck is going on paved road.
+--001465.jpg
+---One compactor is moving over paved surface.
+--001472.jpg
+---One mobile crane is moving over paved road.
+--001494.jpg
+---One compactor is moving over paved surface.
+--001561.jpg
+---One concrete mixer truck is moving over paved road.
+--001622.jpg
+---One mobile crane is moving over paved road.
+--001648.jpg
+---One mobile crane is positioning over paved road.
+--001699.jpg
+---One backhoe loader is moving over paved road.
+--001735.jpg
+---the concrete mixer truck is travelling on a paved road in the mountain
+--001792.jpg
+---One concrete mixer machine is moving on paved road.
+--001810.jpg
+---A concrete mixer truck is moving over paved road.
+--001851.jpg
+---One compactor is moving over paved surface.
+--002165.jpg
+---a compactor is travelling on paved area
+--002212.jpg
+---One mobile crane is moving over paved road.
+--002233.jpg
+---One concrete mixer truck is moving over paved surface.
+--002320.jpg
+---One mobile crane is lifting another mobile crane from paved surface.
+--002336.jpg
+---One compactor is compacting uneven paved road.
+--002424.jpg
+---One concrete mixer truck is moving over paved road.
+--002531.jpg
+---One backhoe loader is going to paved surface leaving dirt surface.
+--002650.jpg
+---Mobile crane parked on a paved surface.  Mobile crane ready for transport.
+--002715.jpg
+---A backhoe loader is moving over paved surface.
+--002822.jpg
+---One concrete mixer truck is going through unpaved road.
+--002841.jpg
+---One backhoe loader is at rest over paved surface.
+--002983.jpg
+---One mobile crane is turning over paved surface.
+--003063.jpg
+---One wheel loader is putting aside loose earth from paved road.
+--003203.jpg
+---A backhoe loader is moving over paved road.
+--003231.jpg
+---One wheel loader is moving over paved surface.
+--003234.jpg
+---One mobile crane is turning over paved road.
+--003458.jpg
+---One mobile crane is moving over paved traffic roads.
+--003906.jpg
+---One mobile crane is moving over paved road.
+--003941.jpg
+---One compactor is moving over paved surface.
+--004014.jpg
+---The road has been paved by the Grader
+

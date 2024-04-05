@@ -1,0 +1,6 @@
+-lowered
+--000582.jpg
+---Mobile crane is lowered its bow to lift an item.
+--001708.jpg
+---The mobile crane is being lowered to the ground. 
+

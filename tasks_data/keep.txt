@@ -1,0 +1,10 @@
+-keep
+--001453.jpg
+---the dozer is pushing sand at the side of a road to keep it smooth
+--001777.jpg
+---a concrete mixer truck is mixing concrete while keeping it inside
+--007180.jpg
+---A wheel loader is pushing the soil to keep it organised.
+--007190.jpg
+---A dozer is pushing soil to keep it organized.
+

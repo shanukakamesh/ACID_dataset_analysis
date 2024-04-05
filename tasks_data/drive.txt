@@ -1,0 +1,20 @@
+-drive
+--000009.jpg
+---Compactor is driven by a man
+--000072.jpg
+---Compactor is driven by a man
+--000098.jpg
+---Backhoe-loader with a driver is parked in the forest
+--000438.jpg
+---Truck is being driven to site
+--001217.jpg
+---the grader is grading one lane of the arterial driveway 
+--002625.jpg
+---two excavators in the field excavating while four dump trucks waiting on the drive lane
+--002657.jpg
+---a compactor is travelling on the shoulder of driveway in a rural area
+--002831.jpg
+---A dozer is standing still with no driver.
+--003128.jpg
+---a concrete mixer truck is parked in the driveway
+

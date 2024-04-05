@@ -1,0 +1,33 @@
+-extract
+--000401.jpg
+---A crane is parked next to the mall with its bow full extracted. 
+---A crane is parked next to the mall with its bow full extracted. 
+--000642.jpg
+---Mobile crane is extracting its bow.
+--001246.jpg
+---the backhoe loader is carrying rocks on its front bucket while extracting with its back bucket
+--001364.jpg
+---an excavator is extracting rocks to load it on a dump truck
+--002268.jpg
+---three excavators are swinging their buckets over a pile of extracted rocks from the site.
+--002364.jpg
+---an excavator is waiting for an empty dump truck to start loading it with dirt. another excavator is seen extracting dirt on the back with many empty dump trucks on the site
+--002618.jpg
+---the backhoe loader is headed to fill its bucket with extracted materials on the surface 
+--002655.jpg
+---the excavator is swinging its bucket towards a dump truck to load it with soil extracted from the site.
+--002660.jpg
+---the excavator is extracting materials from the ground and dumping it in a dump truck
+--002967.jpg
+---the excavator is carrying the extracted dirt to load a dump truck
+--002970.jpg
+---the excavator is extracting materials 
+--002980.jpg
+---a number of excavators are extracting materials from the ground and loading dump trucks
+--003162.jpg
+---an extractor have fully loaded its bucket with soil
+--003176.jpg
+---an excavator is using it's bucket to extract sand
+--003928.jpg
+---the excavator is swinging its bucket to extract more materials at the site . while a dump truck is leaving the site fully loaded
+

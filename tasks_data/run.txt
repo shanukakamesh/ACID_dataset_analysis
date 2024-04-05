@@ -1,0 +1,30 @@
+-run
+--001601.jpg
+---A backhoe is uplifting a tree trunk.
+--002572.jpg
+---the dozer is pushing soil to pave the way for water to run through the field. 
+--003459.jpg
+---A backhoe loader is lifting a tree trunk off a beach.
+--004011.jpg
+---The Backhoe Loader is preparing to push more the tree trunk.
+--004144.jpg
+---A wheel loader hauling tree trunks.
+--004483.jpg
+---A wheel loader is hauling tree trunks.
+--004837.jpg
+---A wheel loader is hauling tree trunks.
+--006034.jpg
+---A loader is loading a dump trunk
+--006189.jpg
+---A back hoe loader is lifting tree trunks.
+--006648.jpg
+---A backhoe loader is hauling a tree trunk.
+--007148.jpg
+---A dozer with forklift attachment is loading tree trunks on to a trailer.
+--008918.jpg
+---A backhoe loader is hauling tree trunks.
+--009129.jpg
+---A back hoe loader is hauling tree trunks.
+--009206.jpg
+---A back hoe loader hauling tree trunks.
+

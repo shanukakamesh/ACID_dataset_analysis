@@ -1,0 +1,369 @@
+-driving
+--000001.jpg
+---Dozer is driving on the road
+---Dozer is driving on the road
+--000003.jpg
+---Wheel loader is driving on the ground
+--000006.jpg
+---Grader is driving on the road
+---Grader is driving on the road by a man
+--000007.jpg
+---Grader is driving on the road in front of the forest
+---Grader is driving on the road
+--000008.jpg
+---Grader is driving on a mud road
+--000010.jpg
+---Grader is driving on a inclined mud road
+--000015.jpg
+---Backhoe loader is driving on the snow road
+--000016.jpg
+---Backhoe loader is driving on the road
+--000018.jpg
+---Backhoe loader is driving on the road
+--000024.jpg
+---The dozer is driving toward me 
+--000037.jpg
+---A wheel loader is driving ahead to soil
+--000041.jpg
+---Dozer is driving on the road
+--000046.jpg
+---Grader is driving on a muddy road
+--000057.jpg
+---Compactor is driving on the snow road
+--000058.jpg
+---Grader is driving towards a sand hill
+--000059.jpg
+---Grader is driving on the road
+--000061.jpg
+---A grader is driving on a road
+--000065.jpg
+---One cement truck is driving on the road
+--000066.jpg
+---One excavator and one dump truck are driving on the field 
+--000067.jpg
+---One wheel loader is driving on the road
+--000069.jpg
+---Grader is driving in a site 
+--000070.jpg
+---One wheel loader and one dump truck are driving on the road
+--000072.jpg
+---A compactor is driving on the road
+--000074.jpg
+---The dump trucks, one compactor, and one wheel loader are driving on the road
+--000076.jpg
+---A cement truck is driving on the road
+--000080.jpg
+---A wheel loader is driving on the road
+---A wheel_loader is driving on a soil road
+--000081.jpg
+---Dozer is driving in the site in front of cars
+--000085.jpg
+---Backhoe loader is driving in the site
+--000090.jpg
+---Cement truck is driving on the road
+--000113.jpg
+---A man is driving a compactor.
+---A man is driving a compactor.
+--000123.jpg
+---A dump truck to driving into a construction site towards an excavator.
+---A dump truck to driving into a construction site towards an excavator.
+An excavator is moving its bucket.
+--000141.jpg
+---Grader driving in the dirt field 
+--000144.jpg
+---A grader driving down a country road
+--000178.jpg
+---Grader is driving along the road 
+--000179.jpg
+---Grader is driving along the unpaved road.
+--000195.jpg
+---A grader is driving away from compactor 
+--000204.jpg
+---A concrete mixer truck is driving on a small road.
+---A concrete mixer truck is driving on a small road.
+--000227.jpg
+---Backhoe loader is driving on the road
+--000235.jpg
+---A grader is driving on a grass field.
+---A grader is driving on a grass field.
+--000281.jpg
+---A grader is driving into the forest.
+---A grader is driving into the forest.
+--000308.jpg
+---A red mobile crane is driving on the road.
+---A red mobile crane is driving on the road.
+--000333.jpg
+---A compactor is driving on the road at night
+--000335.jpg
+---An excavator and two dump trucks are driving in the road and cooperate with each other
+--000336.jpg
+---A grader is driving by a person on the road 
+--000337.jpg
+---Dump truck is driving 
+--000345.jpg
+---A compactor is driving along the construction site.
+---A compactor is driving along the construction site.
+--000358.jpg
+---Compactor is driving along the road with its blade up
+--000370.jpg
+---A concrete mixer truck is driving down hill.
+---A concrete mixer truck is driving down hill.
+--000463.jpg
+---A mobile crane is driving the street 
+--000467.jpg
+---A mobile crane is driving on the street 
+--000502.jpg
+---A dozer is driving through a small rock mound.
+--000504.jpg
+---A cement truck is driving on a road.
+---A cement truck is driving on a road.
+--000533.jpg
+---Compactor is driving in the field.
+---Compactor is driving in the open area
+--000534.jpg
+---Cement truck is driving through the mud
+--000536.jpg
+---The dozer is driving backward carefully.
+--000537.jpg
+---Compactor is driving on the road.
+--000544.jpg
+---Three cement tracks are driving in the field.
+---Three cement trucks are driving in the field
+--000545.jpg
+---Grader is driving in the farm field.
+---Grader is driving in the field.
+--000552.jpg
+---A backhoe loader is driving out of the field
+--000556.jpg
+---Loaded wheel loader is driving on the road
+--000558.jpg
+---The cement track is driving across the uneven soil.
+--000560.jpg
+---Wheel loader and two dump trucks are driving on the road while compactor is parked on the side of the road.
+---Wheel loader is crossing the road intersection . Compactor and Dump truck driving in opposite direction on main road.
+--000561.jpg
+---Dump truck is dumping gravel onto the road while grader driving behind it and levelling the surface.
+--000575.jpg
+---Excavator excavating soil while dozer driving next to excavator
+--000589.jpg
+---Wheel looder driving on construction site unloaded
+---Wheel loader driving in a quarry
+--000599.jpg
+---Dump truck is driving close to the excavator.
+--000605.jpg
+---A dozer is excavating soil. And a backhoe is driving on the road.
+--000606.jpg
+---Wheel loader is driving by a pile of sand.
+--000607.jpg
+---Cement truck is driving on paved road.
+---Cement truck is driving on the road
+--000613.jpg
+---A cement truck is driving out the site.
+---A concrete truck is driving.
+--000614.jpg
+---Cement truck is driving on the main road.
+---Cement truck is driving on the highway
+--000616.jpg
+---Dozer moving the ground soil and a second dozer driving behind it.
+--000631.jpg
+---Dozer is clearing the area. The excavator is driving behind the dozer.
+--000634.jpg
+---A dozer is driving over dirt.
+---Dozer is driving on uneven soil.
+--000646.jpg
+---Cement track is driving on the road
+---Mixing machine is driving on the road.
+--000651.jpg
+---A cement truck is driving on a narrow road.
+--000667.jpg
+---A cement truck is driving on a road.
+--000670.jpg
+---A cement truck is driving on a narrow road.
+--000675.jpg
+---A cement truck is driving on a narrow road.
+--000679.jpg
+---A compactor is driving onto the top of a slope.
+--000684.jpg
+---A dozer is driving trough a small rock hill.
+--000686.jpg
+---A backhoe loader is driving along a road.
+--000700.jpg
+---A man is driving a backhoe loader.
+---A backhoe loader is driving towards a truck.
+--000701.jpg
+---Three cement trucks are driving in the field.
+--000703.jpg
+---A man is driving a wheel loader.
+--000704.jpg
+---A dozer is driving trough a ground full of tree branches.
+---A dozer is driving trough a ground full of tree branches.
+--000707.jpg
+---A backhoe loader is driving on site.
+--000708.jpg
+---A man is driving a compactor.
+--000718.jpg
+---A cement truck is driving on a road.
+--000732.jpg
+---A compactor is driving on site.
+--000763.jpg
+---A dump truck is driving on a road.
+---A dump truck is driving on a road.
+--000766.jpg
+---A concrete mixer truck is driving on a road.
+--000783.jpg
+---A dozer is driving on a narrow road.
+---A dozer is driving on a narrow road.
+--000831.jpg
+---A backhoe loader is driving on grass.
+--000925.jpg
+---A grader is driving onto a road.
+--001057.jpg
+---A compactor is driving off truck platform.  Wheel loader parked in the background.
+--001060.jpg
+---A backhoe loader is driving to the site.
+--001076.jpg
+---A backhoe loader is driving through water.
+--001377.jpg
+---A compactor driving backwards. An excavator lifting debris. 
+--001419.jpg
+---A concrete mixer driving to a site.
+--001420.jpg
+---An excavator is excavating. Two dump trucks are driving towards the excavator 
+--001434.jpg
+---Excavator driving up a pile of dirt.
+--001467.jpg
+---A mobile crane is driving to a site.
+--001511.jpg
+---A concrete mixer truck is driving to the site.
+--001540.jpg
+---An excavator is digging trench by fence.  Two dump trucks are driving on site road.  Mobile crane set up. A compactor is compacting site road.
+--001561.jpg
+---A concrete mixer truck is driving to a site.
+--001563.jpg
+---A concrete mixer truck is driving to a site.
+--001566.jpg
+---Grader is spreading soil on road.  Dump truck is driving on construction road.
+--001596.jpg
+---a concrete mixer truck is mixing concrete while it's driving on the street
+--001611.jpg
+---A concrete mixer truck is driving to a site.
+--001627.jpg
+---A mobile crane is driving to a site.
+--001669.jpg
+---A concrete mixer truck is driving to a site.
+--001671.jpg
+---A concrete mixer truck is driving to a site.
+--001700.jpg
+---Wheel loader with empty bucket is driving on site road.
+--001719.jpg
+---Backhoe loader driving with a load of logs in loader bucket.
+--001729.jpg
+---A wheel loader driving backwards. A tower crane lifting stones.
+--001735.jpg
+---A concrete mixer truck is driving to a site.
+--001786.jpg
+---Excavator digging soil to fill dump trucks.  Two dump truck driving away with full loads of soil.
+--001801.jpg
+---A concrete mixer truck are driving to a site.
+--001831.jpg
+---Mobile crane driving on public road.
+--001833.jpg
+---A backhoe loader is driving to a site.
+--001850.jpg
+---Backhoe loader driving on road.
+--001868.jpg
+---One excavator is loading a dump truck, another excavator swinging its load, one dump truck is driving towards the excavators and two dump trucks are driving away.
+--001870.jpg
+---A compactor is driving to the site.
+--001902.jpg
+---A concrete mixer truck is driving to a site.
+--001927.jpg
+---A mobile crane is driving to a site.
+--001975.jpg
+---the concrete mixer truck is not mixing a few amount of concrete left in it while driving on the street
+--002041.jpg
+---A mobile crane is driving to a site.
+--002113.jpg
+---A compactor driving backward besides many grader.
+--002125.jpg
+---the concrete mixer truck is driving down the road
+--002132.jpg
+---a wheel loader is currently empty while driving at a construction site
+--002145.jpg
+---A tower crane lifting object. A dump truck driving forward on a rocky a road.
+--002174.jpg
+---A concrete mixer is driving on an uneven sandy road.
+--002212.jpg
+---Mobile crane is driving on public road
+--002271.jpg
+---a backhoe loader is driving through the site to find a spot to start working
+--002311.jpg
+---A concrete mixer truck is driving to a site.
+--002313.jpg
+---A cement truck is driving down the road
+--002375.jpg
+---A concrete mixer truck is driving to a site.
+---A concrete mixer truck is driving to a site.
+--002380.jpg
+---Concrete mixer truck is driving down a street, transferring 
+---A concrete mixer truck is driving to a site.
+--002446.jpg
+---A backhoe loader is driving on a site.
+--002575.jpg
+---A concrete mixer truck is driving to a site.
+--002603.jpg
+---The concrete truck mixer is driving down the road. 
+--002631.jpg
+---Dozer is driving on gravel.
+--002639.jpg
+---Concrete mixer truck is driving uphill.
+--002664.jpg
+---A concrete mixer truck is driving to its destination.
+--002670.jpg
+---A wheel loader is driving on a site.
+--002682.jpg
+---Backhoe loader driving in wooded area in front of a dump truck.
+--002730.jpg
+---Wheel loader with empty bucket is driving onsite. A dump truck with partial load is waiting.
+--002762.jpg
+---Mobile crane driving onto flatbed truck for transportation.
+---A mobile crane is driving onto a ramp.
+--002794.jpg
+---Backhoe loader digging soil from site pile.  Backhoe loader driving on site to soil pile.
+--002860.jpg
+---A mobile crane is driving to a site.
+--002877.jpg
+---Concrete mixing truck driving on public road.
+--002909.jpg
+---Backhoe loader driving on cleared site.
+--002919.jpg
+---A concrete mixer truck is driving to the site.
+--002923.jpg
+---A backhoe loader is driving on site.
+--002982.jpg
+---A concrete mixer truck is driving down a hill. Two workers are sitting on a bench on the side of the road watching. 
+--002988.jpg
+---Two concrete mixer trucks are driving on a site while an excavator is parked at the site.
+--003041.jpg
+---Two concrete mixer truck parked. A concrete mixer truck driving on the road.
+--003046.jpg
+---A compactor is driving along the street.
+--003050.jpg
+---A bulldozer is driving to a site.
+--003082.jpg
+---A mobile crane is driving to a site.
+--003165.jpg
+---Concrete mixer truck is driving up a dirt road.
+--003475.jpg
+---A bulldozer is driving on a site.
+--003488.jpg
+---A mobile crane is driving to a site.
+--003520.jpg
+---A concrete mixer truck is driving to a site.
+--003668.jpg
+---A concrete mixer truck is driving at a site.
+--003735.jpg
+---A mobile crane is driving on a road.
+--003988.jpg
+---A concrete mixer truck is driving to a site.
+

@@ -1,0 +1,46 @@
+-smoothing
+--000125.jpg
+---A compactor is smoothing the road surface
+--000395.jpg
+---A grader is smoothing a flat surface
+--001023.jpg
+---the compactor is smoothing the surface at the site.
+--001041.jpg
+---a grader is is smoothing the road
+--001073.jpg
+---two compactors are smoothing the road 
+--001239.jpg
+---the grader is smoothing the surface
+--001387.jpg
+---A grader is smoothing off a cleared surface.
+--001655.jpg
+---the grader is smoothing the surface 
+--001762.jpg
+---the grader is smoothing the road.
+--001770.jpg
+---the grader is smoothing the sandy road 
+--001855.jpg
+---the compactor is smoothing a sandy road.
+--002143.jpg
+---the compactor is smoothing the side of the road.
+--002189.jpg
+---the grader is smoothing a pitted surface 
+--002428.jpg
+---the compactor is smoothing the road. 
+--002554.jpg
+---a grader is smoothing and reshaping the path 
+--002692.jpg
+---the grader is shaping and smoothing the surface 
+--002734.jpg
+---the grader is smoothing a sandy road 
+--002772.jpg
+---a compactor is smoothing the road
+--002900.jpg
+---A grader is smoothing an area.
+--002945.jpg
+---the grader is smoothing the surface
+--003544.jpg
+---the grader is smoothing an asphalt road 
+--003632.jpg
+---the compactor is smoothing an asphalt road
+

@@ -1,0 +1,4 @@
+-supervised
+--000079.jpg
+---A mobile crane is working and supervised by a man
+

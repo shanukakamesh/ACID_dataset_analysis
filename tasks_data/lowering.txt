@@ -1,0 +1,10 @@
+-lowering
+--000229.jpg
+---Mobile crane is lowering the bow 
+--000520.jpg
+---A mobile crane is lowering its empty hook.
+--000572.jpg
+---Excavator is lowering its bucket in order to fill it with soil
+--000621.jpg
+---An excavator is lowering its shovel for the fill.
+
