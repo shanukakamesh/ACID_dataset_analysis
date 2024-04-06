@@ -66,5 +66,7 @@ python -m spacy download en_core_web_sm
 
 # Analysing the number of captions per image
 
-- Run [`count_captions_per_image.py`](count_captions_per_image.py) file to generate [`captions_per_image_count.csv`](results/caption_per_image_count.csv) file that contains the captions per image statistic and the following graph.
+- Run [`count_captions_per_image.py`](count_captions_per_image.py) file to generate [`captions_per_image_count.csv`](results/caption_per_image_count.csv) file that contains the captions per image statistic and the following graph. Make sure to enter the file path to the captioning annotation file in COCO format (.json files) as the `file_path` and set `file_save_name` variable to the name of the .csv file to save the results.
 ![Captions per image statistics](results/Captions%20per%20image%20count.png)
+
+# Getting report on duplicate captions

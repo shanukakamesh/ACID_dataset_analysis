@@ -1,7 +1,6 @@
 import json
 import matplotlib.pyplot as plt
 import numpy as np
-from matplotlib.ticker import MultipleLocator
 
 #Enter the file path to the captioning annotation file in COCO format (.json files)
 file_path = "D:\ACID dataset\Dataset\Captioning Annotation (COCO format).json"
