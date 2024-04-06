@@ -1,0 +1,11 @@
+riding-ride
+loading-load
+compacting-compact
+grading-grade
+dig-dig
+lift-lift
+push-push
+dumps,dumping-dump
+levelling-level
+transfer-transfer
+moving-move
