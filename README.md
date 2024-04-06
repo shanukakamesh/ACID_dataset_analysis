@@ -61,5 +61,5 @@ python -m spacy download en_core_web_sm
 
 # Analyzing the n-grams in ACID dataset
 
-- Run the [`get_caption_ngram_count.py`](get_caption_ngram_count.py) file to generate the n-gram caption count as shown in [`caption_ngram_count.csv`](caption_ngram_count.csv) file.
+- Run the [`get_caption_ngram_count.py`](get_caption_ngram_count.py) file to generate the n-gram caption count as shown in [`caption_ngram_count.csv`](results/caption_ngram_count.csv) file.
 - Make sure to enter the file path to the captioning annotation file in COCO format (.json files) as the `file_path`, set `file_save_name` variable to the name of the .csv file to save the results, and set the `ngram_thresh` variable to save ngram counts greater than `ngram_thresh`.
