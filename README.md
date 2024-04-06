@@ -28,10 +28,11 @@ pip install textblob
 pip install nltk 
 pip install tqdm
 ```
-- After installing `nltk`, you will need to download additional data for WordNet. Run Python in your terminal or command prompt and execute the following commands:
+- After installing `nltk`, you will need to download additional data for WordNet and punkt tokenizer resource. Run Python in your terminal or command prompt and execute the following commands:
  ```python
 import nltk
 nltk.download('wordnet')
+nltk.download('punkt')
 ```
 - After installing spacy, you need to download the English language model. Run the following command in your terminal or command prompt:
 ```bash
@@ -53,7 +54,12 @@ python -m spacy download en_core_web_sm
 5. Next, the caption count of tasks/actions stored inside the the folder [`tasks_data`](tasks_data) can be calculated by using the python script [`count_captions.py`](count_captions.py). Make sure to give the path of the folder which contains the .txt files of tasks/actions as the `folder_path` and change the `count_thresh` variable to print the names of the tasks/actions which have a count greater than that value.
 6. Then the [`selected_actions.txt`](selected_actions.txt) file is manually created based on the outputs of the previous step. The reason to create this file manually is to avoid the consideration of unnecessary terms as tasks. (For example: the task `dump` can be misinterprited and it includes the captions which have the words `dump truck`; And also the task `lift` includes all the captions that has the task `lifting`.) When creating this .txt file, it follows the format of `task1,task2,task3-taskName`. (For example: one line of this .txt file can be `dumps,dumping-dump`. In step 7, the python will count all the captions that contain the tasks `dumps`, `dumping` and store their count under the task name `dump`.)
 7. After that run [`count_selected_captions.py`](count_selected_captions.py) file to get the caption count of the selected captions which are included in the [`selected_actions.txt`](selected_actions.txt) file. Make sure to give the file path of the text file that contains the details of selected captions as the `file_path`, the path of the folder which contains the .txt files of tasks/actions as the `folder_path`, and the name to save the caption count in .csv format as `output_file_name`. Caption counts are included in the [`caption_count_data.csv`](results/caption_count_data.csv) file.
-8. [`visualize_caption_count.py`](visualize_caption_count.py) can be used to plot the caption count. Make sure to give the file path to the [`caption_count_data.csv`](results/caption_count_data.csv) file.Following shows the graph of caption count,
+8. [`visualize_caption_count.py`](visualize_caption_count.py) can be used to plot the caption count. Make sure to give the file path to the [`caption_count_data.csv`](results/caption_count_data.csv) file. The following shows the graph of caption count,
 ![Number of captions](results/Count%20of%20captions.png)
-9. [`visualize_category_and_caption_count.py`](visualize_category_and_caption_count.py) can be used to plot both category and caption count. Make sure to give the file path to the [`category_count_data.csv`](results/category_count_data.csv) file and [`caption_count_data.csv`](results/caption_count_data.csv) file.Following shows the graph of caption count,
+9. [`visualize_category_and_caption_count.py`](visualize_category_and_caption_count.py) can be used to plot both category and caption count. Make sure to give the file path to the [`category_count_data.csv`](results/category_count_data.csv) file and [`caption_count_data.csv`](results/caption_count_data.csv) file. The following shows the graph of caption count,
 ![Element distribution of captioning dataset](results/Element%20distribution%20of%20captioning%20dataset.png)
+
+# Analyzing the n-grams in ACID dataset
+
+- Run the [`get_caption_ngram_count.py`](get_caption_ngram_count.py) file to generate the n-gram caption count as shown in [`caption_ngram_count.csv`](caption_ngram_count.csv) file.
+- Make sure to enter the file path to the captioning annotation file in COCO format (.json files) as the `file_path`, set `file_save_name` variable to the name of the .csv file to save the results, and set the `ngram_thresh` variable to save ngram counts greater than `ngram_thresh`.
