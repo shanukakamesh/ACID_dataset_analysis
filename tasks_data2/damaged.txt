@@ -1,0 +1,4 @@
+-damaged
+--005010.jpg
+---The Compactor is ready to start compacting the damaged part of the road.
+

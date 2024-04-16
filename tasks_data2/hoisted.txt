@@ -1,0 +1,4 @@
+-hoisted
+--009536.jpg
+---A concrete mixer truck is being hoisted.
+

@@ -1,0 +1,40 @@
+-hook
+--000520.jpg
+---A mobile crane is parked on site with an empty hook.
+---A mobile crane is lowering its empty hook.
+--000526.jpg
+---A tower crane is lower its hook.
+--000576.jpg
+---A mobile crane is installing the hook.
+--000880.jpg
+---A mobile crane is set up on site and its hook is above the roof of a building.
+--000960.jpg
+---A mobile crane is set up on site and its hook is empty.
+--000976.jpg
+---A mobile crane is set up besides a building and its hook is empty.
+--001222.jpg
+---One tower crane is lifting material using hook.
+--001265.jpg
+---the mobile crane is swinging its hook.
+--001986.jpg
+---one mobile crane is stabilized on the site and started swinging its hook while another mobile crane has just arrived.
+--001987.jpg
+---One tower crane is lifting material using hook.
+--002242.jpg
+---the mobile crane is stabilized at the site with its outriggers and started swinging its hook.
+--002797.jpg
+---Two tower cranes are lifting material using hook.
+--002907.jpg
+---One tower crane is lifting steel frame using hook.
+--003002.jpg
+---the tower crane is swinging its hook to direct it towards materials that needs lifting 
+--003009.jpg
+---the mobile crane is swinging its hook
+--003188.jpg
+---a mobile crane is swinging its  hook to start lifting materials
+---two mobile cranes are swinging their hooks at the site.
+--003637.jpg
+---A mobile crane is decreasing its hook block.
+--003733.jpg
+---A mobile crane is attaching its hook with another mobile crane.
+

@@ -1,0 +1,34 @@
+-perform
+--000028.jpg
+---Several dump trucks and an excavator are performing earth moving activity on a huge construction site.
+--000546.jpg
+---Dozer performing field crealing activity.
+--001268.jpg
+---three dozers are performing blade to blade dozing
+--001581.jpg
+---the grader is performing haul road maintenance  
+--001623.jpg
+---a dozer is performing slot dozing
+--001708.jpg
+---Two mobile cranes are static and perform no actions
+--001775.jpg
+---A mobile crane performs no action
+--001943.jpg
+---the dozer is performing slot dozing
+--002036.jpg
+---a dozer is performing uniform spreading
+--002341.jpg
+---One dozer  behind and to the right of two dozers performing in blade to blade operations.  Excavator trench excavating in rear.
+--002703.jpg
+---Tower crane is static and performs no action
+--003045.jpg
+---the grader is performing bank slopping.
+--003143.jpg
+---the grader is performing haul road maintenance  
+--003321.jpg
+---A mobile crane performs no action.
+--003929.jpg
+---A mobile crane performs no action
+--003964.jpg
+---A backhoe loader performs no action
+

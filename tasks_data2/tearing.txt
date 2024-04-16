@@ -1,0 +1,4 @@
+-tearing
+--001055.jpg
+---The excavator is tearing down a small house.
+

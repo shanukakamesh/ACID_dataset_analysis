@@ -1,0 +1,30 @@
+-direct
+--000362.jpg
+---A grader is tuning its direction.
+--000440.jpg
+---A wheel loader is turning its direction with an empty bucket.
+An excavator is grabbing a bucket of soil.
+---A wheel loader is turning its direction with an empty bucket and an excavator is grabbing a bucket of soil.
+--000480.jpg
+---A wheel loader is turning its direction.
+--000560.jpg
+---Wheel loader is crossing the road intersection . Compactor and Dump truck driving in opposite direction on main road.
+--001808.jpg
+---Two wheel loaders are moving over soil surface in opposite direction.
+--001958.jpg
+---One backhoe loader is moving in reverse direction.
+--003002.jpg
+---the tower crane is swinging its hook to direct it towards materials that needs lifting 
+--003411.jpg
+---A compactor is turning its direction.
+--003465.jpg
+---A grader is turning direction on the site.
+--003702.jpg
+---A compactor is turning its direction.
+--003823.jpg
+---A mobile crane is turning its direction.
+--003850.jpg
+---A backhoe loader is turning its direction.
+--003879.jpg
+---A compactor is turning its direction.
+

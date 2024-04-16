@@ -1,0 +1,34 @@
+-make
+--000319.jpg
+---A dozer is pushing soil to make the road flat.
+--000471.jpg
+---Concrete mixer truck filling up its mixer with ingredients to make a concrete substance.
+--000479.jpg
+---A grader is grading a road to make it flat.
+--000505.jpg
+---A grader is grading a road to make it flat.
+--000507.jpg
+---A grader is grading a road to make it flat.
+--000513.jpg
+---A dozer is pushing soil over the ground to make it flat.
+--000594.jpg
+---A dozer is spreading soil to make the ground flat.
+--000666.jpg
+---A grader is grading a road to make it flat.
+--000744.jpg
+---A wheel loader is pushing snow along the road to make it clean.
+--000884.jpg
+---A grader is grading an uneven road to make it flat.
+--001426.jpg
+---A dozer is pushing soil to make the ground even
+--001547.jpg
+---An excavator is clearing rocks and debris from a site to make an underground tunnel.
+--001855.jpg
+---A compactor is compacting the road to make it smooth.
+--002260.jpg
+---An excavator is clearing soil to make a ditch while a dump truck approaches.
+--002894.jpg
+---A grader is cutting off debris beside a leveled road to make a ditch.
+--003639.jpg
+---An excavator is excavating soil beside a road to make a ditch.
+

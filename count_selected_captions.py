@@ -4,7 +4,7 @@ import os
 file_path = "D:/ACID dataset/selected_actions.txt"
 
 # Give the path of the folder which contains the .txt files of tasks/actions
-folder_path = "D:/ACID dataset/tasks_data"
+folder_path = "tasks_data"
 
 #Name of the .csv file to store the caption count
 output_file_name = "caption_count_data.csv"

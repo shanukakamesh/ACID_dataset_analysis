@@ -1,0 +1,8 @@
+-tilted
+--000391.jpg
+---A wheel loader is tilted forward with rare wheels above the ground.
+---A wheel loaded is tilted forward with rare wheels above the ground.
+--003388.jpg
+---A mobile crane is lifting up a tilted concrete mixer truck.
+---A concrete mixer truck is being tilted to its side.
+

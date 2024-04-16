@@ -1,0 +1,4 @@
+-displayed
+--000333.jpg
+---A compactor is being displayed.
+

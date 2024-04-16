@@ -1,0 +1,55 @@
+-cross
+--000346.jpg
+---A backhoe loader is trying to cross a road covered by water.
+---A backhoe loader is tring to cross  a road covered by water.
+--000373.jpg
+---A backhoe loader moving across the site 
+--000462.jpg
+---A dozer moving across the site. A dozer is spreading material 
+--000534.jpg
+---Cement truck is crossing the muddy puddle.
+--000537.jpg
+---Compactor is moving across the road
+--000558.jpg
+---The cement track is driving across the uneven soil.
+--000560.jpg
+---Wheel loader is crossing the road intersection . Compactor and Dump truck driving in opposite direction on main road.
+--000637.jpg
+---A backhoe loader is hauling materials cross a bridge.
+---A backhoe loader is crossing a steel bridge.
+--001170.jpg
+---An excavator is dumping rocks and dirt into a dump truck.
+Three dump trucks are transfering materiales across a construction site.
+--001323.jpg
+---A wheel loader is transporting dirt across a construction site.
+--001588.jpg
+---An excavator is dumping dirt into a dump truck.
+A dump truck is in standby while an excavator dumps dirt into another dump truck.
+Three dump trucks are transporting materials across a construction site.
+--001733.jpg
+---The concrete mixer truck is transferring concrete across the street. 
+--001787.jpg
+---A wheel loader is traveling (loaded) with dirt across a construction site.
+--001806.jpg
+---A wheel loader is transporting dirt across a construction site.
+--001874.jpg
+---A mobile crane is parked across a road.
+---One mobile crane is crossing an intersection.
+--001887.jpg
+---the backhoe loader is crossing a narrow river.
+--002123.jpg
+---A grader is standing by across a dirt road.
+--002778.jpg
+---An excavator dumping rocks and dirt into dump truck.
+A dump truck is in standby while an excavator dumps materials into a dump truck.
+A dump truck is transporting materials across a construction site.
+--003010.jpg
+---Concrete mixer truck is set up across a dirt road.
+--003082.jpg
+---A mobile crane is crossing the intersection.
+--003160.jpg
+---An excavator is loading a hoarding station.
+A wheel loader is traveling across a construction site.
+--003823.jpg
+---A mobile crane is parked across an asphalt road.
+

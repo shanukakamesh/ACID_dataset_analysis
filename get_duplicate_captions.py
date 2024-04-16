@@ -27,7 +27,7 @@ if file_path:
 duplicate_data = []
 for key, value in caption_mapping.items():
     caption_counts = Counter(value)
-    print(caption_counts)
+    #print(caption_counts)
     duplicates = [[count, caption] for caption, count in caption_counts.items() if count > 1]
     if duplicates:
         duplicate_data.append([key, len(value), duplicates])

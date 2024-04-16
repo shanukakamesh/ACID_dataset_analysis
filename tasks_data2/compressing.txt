@@ -1,0 +1,4 @@
+-compressing
+--000117.jpg
+---Compactor is compressing the granular surface
+

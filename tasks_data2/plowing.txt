@@ -1,0 +1,37 @@
+-plowing
+--000103.jpg
+---A dozer is plowing the field.
+--000104.jpg
+---A grader is plowing the soil.
+--000132.jpg
+---The wheel loader is plowing the dirt 
+--000138.jpg
+---Dozer plowing mud
+--000169.jpg
+---A dozer is plowing the soil on the field
+---Bull dozer plowing dirt
+--000180.jpg
+---The dozer plowing dirt 
+--000268.jpg
+---A grader is plowing the soil on a hill.
+--000306.jpg
+---Two graders are plowing the soil on the site.
+--000324.jpg
+---A dozer is plowing the gravel on the site.
+--000423.jpg
+---A wheel loader and a backhoe loader are plowing the site.
+--000446.jpg
+---A dozer is plowing the soil.
+---A dozer is plowing the soil.
+A excavator is on the construction site.
+--000458.jpg
+---A backhoe loader is plowing the agricultural field. 
+--000461.jpg
+---A dozer is plowing the field.
+--000571.jpg
+---A dozer is plowing the soil.
+--001734.jpg
+---A grader is plowing through sand.
+--002802.jpg
+---A grader is snow plowing.
+

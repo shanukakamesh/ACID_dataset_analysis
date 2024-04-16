@@ -1,7 +1,7 @@
 import os
 
 # Give the path of the folder which contains the .txt files of tasks/actions
-folder_path = "D:/ACID dataset/tasks_data"
+folder_path = "tasks_data"
 
 #  This will print tasks/actions which have a count greater than count_thresh
 count_thresh = 250

@@ -1,0 +1,393 @@
+-rest
+--000007.jpg
+---Grader is driving on the road in front of the forest
+--000016.jpg
+---A backhoe loader is excavating in the forest. 
+--000085.jpg
+---A backhoe-loader is excavating in a forest
+--000096.jpg
+---A dozer is moving the trash wood in the forest
+--000098.jpg
+---Backhoe-loader with a driver is parked in the forest
+---Backhoe -loader is working in the forest
+--000106.jpg
+---A backhoe loader in rest
+--000116.jpg
+---Excavator excavating the soil at the border of open area, near the forest.
+---Two graders are leveling the area in open field. Excavator excavating the soil at the border of open area, near the forest.
+--000146.jpg
+---The wheel loader is at rest
+--000163.jpg
+---A wheel loader is at rest
+--000175.jpg
+---Two compactors at rest
+--000188.jpg
+---A grader is grading a narrow road in a forest.
+--000233.jpg
+---Backhoe loader is parked in the field next to the forest.
+--000234.jpg
+---Grader is at rest on the cemented surface
+--000237.jpg
+---A backhoe loader is operating on a road inside a forest.
+--000253.jpg
+---Compactor is at rest 
+--000270.jpg
+---Compactor is at rest with open operator\u2019s door
+--000281.jpg
+---A grader is driving into the forest.
+--000304.jpg
+---Backhoe loader is at rest
+--000305.jpg
+---A dump truck is in rest position
+--000307.jpg
+---An operator is on a back hoe loader. The backhoe loader is at rest.
+--000388.jpg
+---Crane is positioning itself to rest
+--000426.jpg
+---Excavator is Excavating the soil. Dozer is resting
+--000430.jpg
+---Excavator is in rest
+--000431.jpg
+---Ready Mix truck is in rest
+--000443.jpg
+---Excavator is Excavating the soil. Dozer is resting
+--000543.jpg
+---Two backhoe loaders are in rest.
+---Backhoe loaders are at rest
+--000551.jpg
+---Backhoe loader is at rest
+--000553.jpg
+---Backhoe loader is resting on uneven soil
+---backhoe loader is in the forest.
+---Backhoe loader is at rest.
+--000559.jpg
+---Backhoe loader is at rest
+--000564.jpg
+---Mobile crane is in operation while other two cranes are at rest.
+--000566.jpg
+---Dozer in the forest clearing the area.
+---Dozer is clearing the field in the forest
+--000574.jpg
+---Mobile crane at rest on a construction site
+--000585.jpg
+---Backhoe looder is at rest
+--000609.jpg
+---A backhoe loader is at rest
+--000610.jpg
+---Backhoe loader is at rest in the parking area
+--000619.jpg
+---A backhoe loader is at rest in an open area
+--000620.jpg
+---Cement track is at rest in parking lot
+--000633.jpg
+---Cement truck is at rest
+--000648.jpg
+---The tower crane is at rest
+--000686.jpg
+---A backhoe loader is at rest at the right side of the road.
+--000715.jpg
+---A backhoe loader is at rest.
+--000733.jpg
+---A backhoe loader is at rest.
+--000740.jpg
+---A compactor is at rest in a parking site.
+--000746.jpg
+---A compactor is at rest in a parking site.
+--000749.jpg
+---A backhoe loader is at rest.
+--000756.jpg
+---A backhoe loader is at rest in a parking site.
+--000758.jpg
+---A grader is at rest on site.
+--000761.jpg
+---A wheel loader is at rest on site.
+--000774.jpg
+---A compactor is at rest in a parking site.
+--000787.jpg
+---A backhoe loader is at rest.
+--000801.jpg
+---A backhoe loader is at rest on site.
+--000810.jpg
+---A wheel loader is at rest at side of a road.
+--000818.jpg
+---An excavator is at rest on site.
+--000874.jpg
+---A backhoe loader is at rest on site.
+--000902.jpg
+---A backhoe loader is at rest in on site.
+--000909.jpg
+---A backhoe loader is at rest in a parking site.
+--000911.jpg
+---A compactor is at rest in a parking site.
+--000917.jpg
+---A compactor is at rest in a parking site.
+--000944.jpg
+---A wheel loader is transferring wood in a forest.
+--000946.jpg
+---A dozer is pushing rocks and soil in a forest.
+--000953.jpg
+---A backhoe loader is travelling in a forest.
+--000982.jpg
+---A compactor is at rest in a parking site.
+--000983.jpg
+---A wheel loader is at rest on site.
+--000993.jpg
+---A cement truck is at rest at the parking site.
+--000994.jpg
+---A dozer is travelling in a forest.
+--000995.jpg
+---A cement truck is at rest at the parking site.
+--001005.jpg
+---An empty wheel loader is at rest
+--001049.jpg
+---One wheel loader is at rest.
+--001156.jpg
+---One grader is at rest.
+--001177.jpg
+---One mobile crane is at rest.
+--001234.jpg
+---One empty dump truck is at rest.
+--001260.jpg
+---One mobile crane is at rest.
+--001281.jpg
+---A wheel loader is standing at rest.
+--001317.jpg
+---A wheel loader, a backhoe loader and two compactors are standing at rest.
+--001354.jpg
+---A backhoe loader is at rest
+--001385.jpg
+---the wheel loader is rested while concrete mixer truck is awaiting for action
+--001404.jpg
+---the wheel loader is stabilized and is resting its bucket on the ground.
+--001450.jpg
+---A concrete mixer truck is at rest
+--001479.jpg
+---An excavator is sitting at rest.
+--001576.jpg
+---Backhoe loader with stabiliser legs out.  Excavating bucket resting on soil.
+--001616.jpg
+---One concrete mixer truck is at rest.
+--001649.jpg
+---A backhoe loader is standing at rest at a site.
+---A backhoe loader is clearing standing at rest.
+--001657.jpg
+---One backhoe loader is at rest.
+--001668.jpg
+---One excavator is at rest.
+--001674.jpg
+---An empty backhoe loader is at rest
+--001719.jpg
+---A backhoe loader is transporting logs in a forest.
+--001788.jpg
+---A dozer is stripping roots and branches in a forest.
+--001798.jpg
+---One mobile crane is at rest.
+--001814.jpg
+---Two backhoe loaders are at rest.
+--001835.jpg
+---A compactor is standing at rest at a site.
+--001847.jpg
+---the excavator is stopped and currently resting its bucket cylinder 
+--001873.jpg
+---A compactor is at rest in a parking site.
+--001928.jpg
+---A mobile crane is sitting at rest.
+--001979.jpg
+---One grader is at rest.
+--002085.jpg
+---A wheel loader is standing at rest in a cleared space on site.
+--002119.jpg
+---A grader is at rest on a road.
+--002186.jpg
+---Two wheel loaders are moving and one compactor is at rest on site.
+--002250.jpg
+---An empty backhoe loader is at rest
+--002328.jpg
+---a dozer is travelling downhill in a forest 
+--002352.jpg
+---One grader is at rest on soil surface.
+--002410.jpg
+---A grader is at rest
+--002415.jpg
+---A mobile crane is at rest
+--002422.jpg
+---Two wheel loaders are at rest.
+--002439.jpg
+---A backhoe loader is standing at rest on a site.
+--002453.jpg
+---A backhoe loader is standing at rest.
+--002500.jpg
+---A backhoe loader is scooping up snow in a forest clearing.
+--002501.jpg
+---the dozer is spreading dumped materials in the forest.
+--002605.jpg
+---An empty backhoe loader is at rest 
+--002684.jpg
+---One mobile crane is moving and one dump truck is at rest at site.
+--002700.jpg
+---the mobile cranes are rested on site
+--002727.jpg
+---A grading shaping a sandy road beside a forest.
+--002737.jpg
+---An excavator is parked in a forest area.
+--002765.jpg
+---the excavator is cutting down trees in the forest
+--002776.jpg
+---A bulldozer is clearing away snow at a forested area.
+--002825.jpg
+---Two dump trucks, three wheel loaders and two backhoe loaders are at rest.
+--002833.jpg
+---A grader is sitting at rest.
+--002841.jpg
+---One backhoe loader is at rest over paved surface.
+--002873.jpg
+---A concrete mixer truck is standing at rest at a site.
+---One concrete mixer truck is at rest.
+--002925.jpg
+---A backhoe loader is standing at rest at a site.
+--002926.jpg
+---A backhoe loader is collecting logs in a forest.
+---A backhoe loader is clearing logs at a forest.
+--002934.jpg
+---One excavator is at rest.
+--002936.jpg
+---Two wheel loaders are standing at rest at a site.
+--002953.jpg
+---One tower crane is at rest.
+--002978.jpg
+---A backhoe loader is sitting at rest on site.
+--003003.jpg
+---One dump truck is at rest.
+--003033.jpg
+---One backhoe loader is at rest for fixing.
+--003036.jpg
+---One grader is at rest.
+--003053.jpg
+---A mobile crane is at rest
+--003146.jpg
+---A backhoe loader is sitting at rest on site.
+--003181.jpg
+---A backhoe loader is at rest. Three dump trucks in the background are at rest.
+--003196.jpg
+---One backhoe loader is moving and another one is at rest.
+--003207.jpg
+---One grader is at rest.
+--003225.jpg
+---A compactor is at rest
+--003251.jpg
+---An excavator is at rest
+--003275.jpg
+---A backhoe loader is excavating soil on the forest.
+--003283.jpg
+---A compactor is at rest
+--003316.jpg
+---A grader are pathing the sandy road inside the forest.
+--003322.jpg
+---A backhoe loader is digging the soil in the forest.
+--003330.jpg
+---A mobile crane is standing at rest at a site.
+---One mobile crane is at rest.
+--003331.jpg
+---A grader is levelling ground in the forest.
+--003333.jpg
+---A mobile crane is sitting at rest at a site.
+--003355.jpg
+---Two excavators are landscaping the soil in the forest.
+--003359.jpg
+---A backhoe loader is standing at rest at the site.
+--003363.jpg
+---A dozer is sitting in the forest.
+---A bulldozer is standing at rest at a site.
+--003365.jpg
+---A compactor is sitting at rest at a site.
+--003378.jpg
+---A backhoe loader is stabilized in the forest.
+--003386.jpg
+---A concrete mixer truck is standing at rest at a site.
+--003397.jpg
+---A tower crane is at rest.
+--003429.jpg
+---A wheel loader is at rest.
+--003441.jpg
+---A bulldozer is standing at rest at a site.
+--003450.jpg
+---A backhoe loader is standing at rest beside a road.
+--003554.jpg
+---A compactor is standing at rest at a site.
+--003584.jpg
+---A mobile crane is sitting at rest at a site.
+--003588.jpg
+---A grader is pathing the field beside the forest.
+--003595.jpg
+---A backhoe loader is sitting at rest at a site.
+--003596.jpg
+---A backhoe loader is sitting at rest at a site.
+--003621.jpg
+---A wheel loader is sitting at rest on a site.
+--003663.jpg
+---A backhoe loader is moving in the forest.
+--003665.jpg
+---Two excavators are excavating the ground beside the forest.
+--003667.jpg
+---A backhoe loader is empty and at rest
+--003671.jpg
+---A wheel loader and a concrete mixer truck are standing at rest at a site.
+--003677.jpg
+---An excavator is landscaping the forest while a dozer is pushing the soil aside.
+--003680.jpg
+---A excavator is standing at rest at a site at a mountainside. 
+--003686.jpg
+---A backhoe loader is standing at rest at a site.
+--003702.jpg
+---A compactor is at rest
+--003705.jpg
+---A mobile crane is at rest.
+--003707.jpg
+---A grader is levelling the soil on the forest road.
+--003708.jpg
+---A mobile crane is at rest.
+--003711.jpg
+---A backhoe loader is standing at rest on the site.
+--003720.jpg
+---A bulldozer is sitting at rest beside a ditch.
+--003731.jpg
+---A tower crane is at rest. A mobile crane is swinging. 
+--003734.jpg
+---A backhoe loader is at rest
+--003744.jpg
+---A bulldozer is standing at rest at a site.
+--003758.jpg
+---A backhoe loader parked in the forest.
+---A backhoe loader is standing at rest at a site.
+--003775.jpg
+---A backhoe loader is sitting at rest at the site.
+---One backhoe loader is at rest.
+--003776.jpg
+---A concrete mixer truck is standing at rest at a site.
+--003783.jpg
+---A dozer is pushing the soil forward on a forest field.
+--003869.jpg
+---A backhoe loader is landscaping in the forest.
+--003871.jpg
+---A backhoe loader is travelling to a site through a forested area.
+--003872.jpg
+---A tower crane and an excavator are standing at rest at a site.
+--003892.jpg
+---A compactor is sitting at rest at a site.
+--003897.jpg
+---A backhoe loader is at rest
+--003927.jpg
+---A backhoe loader is traveling in forest land.
+--003941.jpg
+---A compactor is standing at rest at a site.
+--003962.jpg
+---A dozer spreading the soil evenly on the forest site.
+--003983.jpg
+---A grader is pushing the soil on the forest.
+--003990.jpg
+---A wheel loader is at rest
+--005995.jpg
+---An excavator is excavating the forest.
+--007005.jpg
+---The dozer is paving way in a forested area.
+

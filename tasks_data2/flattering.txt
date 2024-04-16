@@ -1,0 +1,30 @@
+-flattering
+--000061.jpg
+---Grader is flattering the road
+--000069.jpg
+---A grader is flattering the road
+--000089.jpg
+---Grader is flattering the road
+--000091.jpg
+---Grader is flattering the ground
+--000116.jpg
+---Graders are flattering the surface and excavator is excavating rocks
+--000118.jpg
+---A grader is flattering the road
+--000119.jpg
+---Compactor is flattering the road
+--000165.jpg
+---Compactor is flattering the ground
+--000190.jpg
+---Compactors flattering ground
+--000192.jpg
+---A grader flattering the road
+--000219.jpg
+---The grader is flattering terrain 
+--000554.jpg
+---Compactor is flattering the road
+--000561.jpg
+---Dump truck is dumping the gravel on the road. Grader is flattering the surface.
+--003060.jpg
+---the compactor is flattering the road
+

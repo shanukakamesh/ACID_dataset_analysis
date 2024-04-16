@@ -1,0 +1,116 @@
+-going
+--000059.jpg
+---Grader is going to work in the field 
+--000208.jpg
+---The excavator is going to fill the bucket with the soil.
+--000352.jpg
+---An excavator is working is going to fill out the bucket with dirt soil.
+--000622.jpg
+---One wheel loader is undergoing test. Second dozer is parked next to the two mobile cranes.
+--000641.jpg
+---Excavator is going to dump soil into a dump truck
+--001187.jpg
+---One wheel loader is going to load excavated material and loading into a dump truck.
+--001190.jpg
+---One wheel loader is going to transfer soil into a dump truck. 
+--001208.jpg
+---A backhoe loader is going to collect soil from the construction site.
+---A backhoe loader is going to load itself with stones.
+--001219.jpg
+---One wheel loader is going to load soil in bucket.
+--001298.jpg
+---One wheel loader is going to load soil.
+--001349.jpg
+---An excavator is going to its destination.
+--001433.jpg
+---One wheel loader is going to load soil into bucket for putting into a dump truck.
+--001440.jpg
+---One concrete mixer truck is going on paved road.
+--001446.jpg
+---One compactor is going to ride a concrete slope.
+--001462.jpg
+---One excavator is going to dump rocks from swinging bucket.
+--001654.jpg
+---One wheel loader is going to dump rocks into a dump truck.
+--001785.jpg
+---One wheel loader is going to load stones.
+--001849.jpg
+---One excavator is going to dump soil from swinging bucket into a dump truck.
+--001891.jpg
+---One wheel loader is going to load gravel mixed sand.
+--001913.jpg
+---One wheel loader is going to carry soil into bucket.
+--001951.jpg
+---A backhoe loader is going to the site.
+--001990.jpg
+---One dozer is going backward after pushing soil.
+--002004.jpg
+---One wheel loader is going to load loose earth material.
+--002006.jpg
+---One wheel loader is going to load broken gravels.
+--002109.jpg
+---A wheel loader is going to load soil using bucket.
+--002130.jpg
+---A dump truck is waiting to be loaded. A wheel loader is going to the dump truck.
+--002144.jpg
+---An excavator is swinging and is going to load a dump truck with dirt.
+--002244.jpg
+---An excavator is lifting dirt and is going to load a dump truck with the dirt.
+--002262.jpg
+---One dozer is going to push rock mixed sand.
+--002304.jpg
+---An excavator is going to excavate dirt and a dump truck is waiting to be loaded.
+--002340.jpg
+---An excavator is lifting dirt and is going to load a dump truck with the dirt.
+--002342.jpg
+---One excavator is going to excavate soil.
+--002348.jpg
+---An excavator is going to load itself with dirt.
+--002384.jpg
+---One wheel loader is going to dump soil into a dump truck.
+--002401.jpg
+---A wheel loader going back on a construction site.
+--002438.jpg
+---One backhoe truck is going to transport sand.
+--002473.jpg
+---One wheel loader is going to load soil.
+--002499.jpg
+---An excavator is swinging and is going to load a dump truck with dirt.
+--002505.jpg
+---An excavator is going to lift dirt on a construction site.
+--002531.jpg
+---One backhoe loader is going to paved surface leaving dirt surface.
+--002637.jpg
+---A wheel loader is going to dump a load of soil into the bed of a dump truck.
+---A wheel loader is loaded with dirt and is going to load a dump truck with the dirt.
+--002798.jpg
+---The wheel loader is going to load the the two dump trucks
+--002822.jpg
+---One concrete mixer truck is going through unpaved road.
+--002851.jpg
+---An excavator has excavated dirt and is going to load the dump truck with dirt.
+--002898.jpg
+---A grader is going left on a smooth road.
+--002997.jpg
+---One backhoe loader is going to load soil.
+--003004.jpg
+---One wheel loader is going to dump soil into a dump truck and one excavator is excavating soil.
+--003104.jpg
+---An excavator is going to load a dump truck with dirt.
+--003107.jpg
+---An excavator is excavating dirt and is going to load a dump truck with dirt.
+--003139.jpg
+---A wheel loader is loading rocks and is going to load them in a dump truck.
+--003291.jpg
+---A wheel loader is going to load itself with dirt.
+--003407.jpg
+---A dozer is going uphill on a mountain.
+--003615.jpg
+---One dozer is going to push soil.
+--003998.jpg
+---An excavator is excavating dirt and is going to load a dump truck with the dirt.
+--006442.jpg
+---A bull dozer is going on to a trailer.
+--008977.jpg
+---A back hoe loader is going on to a truck.
+

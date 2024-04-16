@@ -1,0 +1,26 @@
+-dumps
+--000191.jpg
+---Excavator is excavating rocks and dumps the rocks into dump trucks 
+--000299.jpg
+---The excavator is digging the soil and then dumps it to the dump truck
+--000412.jpg
+---Dump truck and wheel loader are working together. Wheel loader dumps rocks into the dump truck.
+--000562.jpg
+---Excavator is excavating rocks and dumps them on a dump truck.
+--000581.jpg
+---Excavator excavating rocks and dumps them into a truck
+--001556.jpg
+---An excavator is dumping rocks and dirt into a dump truck in a mining site.
+A dump truck is in standby while an excavator dumps another dump truck.
+A dump truck is transporting materials in a mining site.
+--001588.jpg
+---An excavator is dumping dirt into a dump truck.
+A dump truck is in standby while an excavator dumps dirt into another dump truck.
+Three dump trucks are transporting materials across a construction site.
+--002718.jpg
+---A bulldozer is leveling the ground at a site while a dump truck dumps excavated soil at a pile.
+--002778.jpg
+---An excavator dumping rocks and dirt into dump truck.
+A dump truck is in standby while an excavator dumps materials into a dump truck.
+A dump truck is transporting materials across a construction site.
+

@@ -1,0 +1,18 @@
+-stops
+--000049.jpg
+---Grader stops on the road
+--000050.jpg
+---Grader stops by the road
+--000051.jpg
+---Excavator stops by two dump trucks on the road in a site 
+--000052.jpg
+---Cement truck stops in a parking lot for trucks
+--000054.jpg
+---Two excavator is excavate earth and four dump-truck stops on the site
+--000065.jpg
+---Cement truck stops beside the road
+--000067.jpg
+---Wheel loader stops in front of a piles of sands
+--000068.jpg
+---Wheel loader stops by a house 
+

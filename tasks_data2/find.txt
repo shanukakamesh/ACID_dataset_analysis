@@ -1,0 +1,4 @@
+-find
+--002271.jpg
+---a backhoe loader is driving through the site to find a spot to start working
+

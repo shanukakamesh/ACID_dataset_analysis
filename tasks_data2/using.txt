@@ -1,0 +1,235 @@
+-using
+--000122.jpg
+---Dozer is moving soil by using its blade.
+--000197.jpg
+---An excavator is lifing a steel beam using its bucket.
+--000349.jpg
+---A wheel loader is dumping rocks into a dump truck using its bucket.
+--000429.jpg
+---A backhoe loader is using its backhoe and bucket to support itself to get into the dump truck.
+--000441.jpg
+---A grader is grading a road using its blade.
+--000489.jpg
+---An excavator is dumping soil and rock into a dump truck using its bucket.
+--000500.jpg
+---A backhoe loader is lifting soil using its bucket.
+--000510.jpg
+---A wheel loader is dumping soil and rocks using its bucket.
+--000661.jpg
+---A backhoe loader is digging the ground using its bucket.
+--000693.jpg
+---An excavator is digging the bank soil of a shallow river using its bucket.
+--000716.jpg
+---A excavator is digging the ground using its bucket to load gravels and rocks.
+--000723.jpg
+---An excavator is excavating gravel using its bucket and a dump truck is waiting to be loaded.
+--000724.jpg
+---A backhoe loader is digging the soil ground using its front bucket.
+--000771.jpg
+---An excavator is demolishing a brick wall using its bucket.
+--000821.jpg
+---A backhoe loader is digging the ground using its bucket.
+--000892.jpg
+---A backhoe loader is digging the soil ground using its bucket.
+--000908.jpg
+---A backhoe loader is digging soil on the road using its back hoe.
+--000918.jpg
+---A backhoe loader is digging soil on the ground using its back hoe.
+--000942.jpg
+---A backhoe loader is excavating soil using its back hoe on a grass ground.
+--000951.jpg
+---A wheel loader is pushing a big rock brick using its bucket.
+---A wheel loader is using its bucket to push a big rock brick.
+--001017.jpg
+---One grader is grading soil using blade.
+--001048.jpg
+---One compactor is compacting soil using roller.
+--001055.jpg
+---the excavator is using its bucket to demolish a building.
+--001062.jpg
+---One excavator is dumping soil into a dump truck and one compactor is compacting soil using roller.
+--001074.jpg
+---One grader is flatening dirt road using blade.
+--001094.jpg
+---One grader is flatening dirt road using blade.
+--001115.jpg
+---One grader is grading soil using blade.
+--001124.jpg
+---One compactor is compacting surface using roller.
+--001138.jpg
+---One grader is grading dirt surface using blade.
+--001139.jpg
+---One grader is grading dirt surface using blade.
+--001209.jpg
+---One compactor is compacting soil using roller.
+--001222.jpg
+---One tower crane is lifting material using hook.
+--001290.jpg
+---A wheel loader is using its bucket to load the 
+--001307.jpg
+---One excavator is lifting soil using swinging bucket.
+--001334.jpg
+---A mobile crane is stabilized using outriggers.
+--001496.jpg
+---One compactor is compacting soil using roller.
+--001497.jpg
+---A mobile crane is stabilized using outriggers.
+--001504.jpg
+---One excavator is loading rocks using its swinging bucket and an empty dump truck is moving.
+--001592.jpg
+---One grader is grading soil surface using blade.
+--001600.jpg
+---Excavator is handling soil using bucket for putting into a standing dump truck.
+--001632.jpg
+---One compactor is compacting uneven surface using roller.
+--001638.jpg
+---One compactor is compacting soil using roller.
+--001642.jpg
+---One grader is grading soil using blade.
+--001698.jpg
+---A backhoe loader is stabilized on the ground using hydraulic extensions.
+--001712.jpg
+---One grader is grading soil surface using blade.
+--001734.jpg
+---One grader is flatening road using blade.
+--001767.jpg
+---Three excavators are excavating.  A red excavator is using hammer attachment on rock face.
+--001784.jpg
+---One grader is grading soil surface using blade.
+--001842.jpg
+---One excavator is lifting gravel mixed soil using bucket.
+--001863.jpg
+---One grader is grading dirt surface using blade.
+--001883.jpg
+---One grader is grading soil surface using blade.
+--001911.jpg
+---One excavator is collecting loose material  using bucket.
+--001915.jpg
+---One grader is grading soil using blade.
+--001964.jpg
+---One compactor is compacting soil using roller.
+--001970.jpg
+---One grader is flatening dirt surface using blade.
+--001971.jpg
+---One compactor is compacting soil surface using roller.
+--001987.jpg
+---One tower crane is lifting material using hook.
+--002002.jpg
+---One grader is flatening soil using blade.
+--002009.jpg
+---One grader is grading road using blade.
+--002034.jpg
+---One grader is grading snow filled soil using blade.
+--002066.jpg
+---One excavator is lifting rocks using swinging bucket for dumping into one dump truck standing nearby.
+--002073.jpg
+---One compactor is compacting backfilled soil using roller.
+--002096.jpg
+---A mobile crane is stabilized using outriggers.
+--002109.jpg
+---A wheel loader is going to load soil using bucket.
+--002115.jpg
+---An excavator is lifting excavated soil using bucket for putting into a dump truck.
+--002148.jpg
+---the dozer is spreading using a blade control 
+--002168.jpg
+---One grader is flattening dirt road using blade.
+--002201.jpg
+---One compactor is compacting soil surface using roller.
+--002218.jpg
+---One grader is grading soil surface using blade.
+--002246.jpg
+---One grader is making grade on road surface and one compactor is compacting using roller.
+--002320.jpg
+---A mobile crane is stabilized using outriggers.
+--002361.jpg
+---One grader is flattening soil surface using blade.
+--002372.jpg
+---One compactor is compacting soil surface using roller.
+--002374.jpg
+---Two graders are flatening snow filled road using blades.
+--002392.jpg
+---One compactor is compacting soil surface using roller.
+--002432.jpg
+---Two compactors are compacting road surface using rollers.
+--002454.jpg
+---One grader is grading dirt surface using blade.
+--002492.jpg
+---One grader is flattening soil surface using blade.
+--002518.jpg
+---One compactor is compacting bituminous surface using roller.
+--002569.jpg
+---One grader is grading surface using blade.
+--002582.jpg
+---One excavator is loading construction debris using swinging bucket.
+--002592.jpg
+---A mobile crane is stabilized using an outrigger.
+--002617.jpg
+---A mobile crane is stabilized using outriggers.
+--002620.jpg
+---One grader is flattening dirt road using blade.
+--002659.jpg
+---One compactor is compacting base course using roller.
+--002744.jpg
+---Backhoe loader using loader bucket to push soil.
+--002747.jpg
+---One backhoe loader is transferring excavated soil using bucket. 
+--002780.jpg
+---One grader is flattening soil surface using blade.
+--002793.jpg
+---An excavator is lifting soil using bucket for dumping into a dump truck.
+--002797.jpg
+---Two tower cranes are lifting material using hook.
+--002839.jpg
+---a backhoe loader is using it's back bucket to load dirt
+--002867.jpg
+---One grader is grading soil surface using blade.
+--002907.jpg
+---One tower crane is lifting steel frame using hook.
+--002915.jpg
+---One excavator is collecting rock using bucket and two dump trucks are standing nearby.
+--002931.jpg
+---One grader is grading soil surface using blade.
+--002933.jpg
+---One grader is flatening dirt surface using blade.
+--002971.jpg
+---One grader is grading dirt road using blade and one dump truck is approaching.
+--002985.jpg
+---One compactor is compacting soil using roller.
+--003019.jpg
+---the backhoe loader is excavating at the site using its back bucket 
+--003049.jpg
+---One grader is flatening dirt road using blade.
+--003093.jpg
+---One grader is flatening soil surface using blade.
+--003125.jpg
+---One grader is preparing flat surface using blade and one compactor is compacting surface using roller.
+--003163.jpg
+---One grader is grading base using blade.
+--003176.jpg
+---an excavator is using it's bucket to extract sand
+--003198.jpg
+---One compactor is compacting soil using roller.
+--003295.jpg
+---One grader is grading soil surface using blade.
+--003487.jpg
+---One grader is grading soil surface using blade.
+--003531.jpg
+---A backhoe loader is stabilized using hydraulic extensions.
+--003551.jpg
+---One grader is flattening dirt surface using blade.
+--003579.jpg
+---the mobile crane is stabilized at the site using its outriggers 
+--003583.jpg
+---One grader is grading dirt surface using blade.
+--003605.jpg
+---A grader is pusing snow.
+--003757.jpg
+---the mobile crane is stabilized at the site using its outriggers 
+--003807.jpg
+---One grader is grading dirt surface using blade.
+--003984.jpg
+---the backhoe loader is loading materials from the site using its bucket 
+--007234.jpg
+---A Dozer is pusing soil to pave way.
+

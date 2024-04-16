@@ -1,0 +1,4 @@
+-pitted
+--002189.jpg
+---the grader is smoothing a pitted surface 
+

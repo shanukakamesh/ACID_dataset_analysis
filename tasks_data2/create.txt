@@ -1,0 +1,12 @@
+-create
+--002100.jpg
+---a grader is removing sand to create a smooth surface
+--002275.jpg
+---One concrete mixer truck is moving on compacted road created by a compactor.
+--002569.jpg
+---grader is grading to create flat surface
+--002775.jpg
+---Grader is used to create flat dirt surface.
+--005020.jpg
+---The excavator is digging to create a pavement, and a dump truck is waiting aside.
+

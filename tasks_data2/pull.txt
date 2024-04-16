@@ -1,0 +1,43 @@
+-pull
+--000112.jpg
+---A excavator is pulling a bucket of soil to the dump truck.
+--000122.jpg
+---A dozer is pulling the earth 
+--000155.jpg
+---An excavator is pulling a bucket of gravel into a dump truck.
+--000199.jpg
+---An excavator is pulling a bucket on sand to the dump truck.
+Three dump truck are waiting to be loaded by the two excavators.
+---An excavator is pulling a bucket on sand to the dump truck and three dump truck are waiting to be loaded by the two excavators.
+--000225.jpg
+---The wheel loader is pulling a bucket soil into the dump truck.
+--000275.jpg
+---A backhoe loader is pulling a bucket of sand to the ground.
+--000286.jpg
+---Mobile crane is pulling a mass
+--000294.jpg
+---An excavator is pulling a bucket of sand into the dump truck. 
+--000315.jpg
+---A wheel loader is about to pull a bucket of soil to the dump truck.
+--000334.jpg
+---A concrete mixer truck is pulling out the concrete to the constructing low-rise building.
+--000852.jpg
+---A compactor is pulling a heavy material onto a slope.
+--001698.jpg
+---the  backhoe loader is about to pull its outriggers back.
+--001916.jpg
+---A dozer is pulling a steel beam on the ground
+---A dozer is pulling a steel beam on the ground to grading the site.
+--002178.jpg
+---The concrete mixer truck is pulling out sand.
+--003271.jpg
+---An excavator is pulling a bucket of sand to the dump truck.
+--003431.jpg
+---An excavator is pulling a bucket of sand.
+--003780.jpg
+---A wheel loader is pulling a bucket of water to the pile of gravel.
+--003804.jpg
+---An excavator is pulling a bucket of soil to the dump truck.
+--005202.jpg
+---A bull dozer is pulling.
+

@@ -1,0 +1,48 @@
+-leveled
+--001070.jpg
+---An excavator is excavating the wall of and unleveled construction site.
+An excavator is dumping dirt into a dump truck. 
+A dump truck is transporting dirt around a construction site.
+--001191.jpg
+---A bulldozer is pushing excess rocks off the leveled ground.
+--001863.jpg
+---A grader is grading a leveled road.
+--001917.jpg
+---An excavator is excavating an enleveled dirt wall.
+--002187.jpg
+---A compactor is compacting a leveled area.
+--002201.jpg
+---A compactor is compacting a leveled area.
+--002509.jpg
+---A grader is leveling a cleared area while a compactor is compacting the leveled base.
+--002667.jpg
+---A compactor is compacting the base in a leveled.
+--002772.jpg
+---A compactor is compacting a leveled road.
+--002807.jpg
+---A compactor is compacting soil in a leveled area.
+--002894.jpg
+---A grader is cutting off debris beside a leveled road to make a ditch.
+--002916.jpg
+---A grader is grading a leveled area.
+--002940.jpg
+---A bulldozer is leveling a cleared area and a compactor is compacting the leveled area.
+--002955.jpg
+---A compactor is compacting a leveled area.
+--003182.jpg
+---Two compactors are compacting sand in a leveled area.
+--003394.jpg
+---A compactor is compacting a leveled area.
+--003529.jpg
+---A grader is grading a leveled area.
+--003539.jpg
+---A compactor is compacting a leveled area.
+--003622.jpg
+---A bulldozer is pushing soil beside a leveled area at a site.
+--003627.jpg
+---A grader is grading the base for a leveled area.
+--003778.jpg
+---A grader is spreading soil on a leveled surface.
+--003944.jpg
+---Two wheel loaders are clearing excess debris off a leveled area.
+
