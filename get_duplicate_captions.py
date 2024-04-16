@@ -18,7 +18,7 @@ if file_path:
     for annotation in data["annotations"]:
         image_id = annotation["image_id"]
         file_name = next(image["file_name"] for image in data["images"] if image["id"] == image_id)
-        caption = annotation["caption"]
+        caption = annotation["caption"].replace('\n',' ')
         if file_name not in caption_mapping:
             caption_mapping[file_name] = [caption]
         else:

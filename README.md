@@ -71,8 +71,12 @@ python -m spacy download en_core_web_sm
 
 # Getting a report on duplicate captions
 
-- Run [`get_duplicate_captions.py`](get_duplicate_captions.py) file to generate [`caption_duplicate_details.csv`](results/caption_duplicate_details.csv) file that gives the details aboute duplicates in the captions. In this csv file, four columns gives the image name, total number of captions, duplicate caption, number of duplicates.
+- Run [`get_duplicate_captions.py`](get_duplicate_captions.py) file to generate [`caption_duplicate_details.csv`](results/caption_duplicate_details.csv) file that gives the details about duplicates in the captions. In this csv file, four columns gives the image name, total number of captions, duplicate caption, number of duplicates.
 
 # Remove duplicate captions and update the caption annotation file
 
 - Run [`remove_duplicates.py`](remove_duplicates.py) file to remove all the duplicate captions of same image and create a new caption annotation file with COCO format. Make sure to enter the file path to the captioning annotation file in COCO format (.json files) as the `file_path` and set `new_file_name` variable to the name of the .json file to save the updated caption annotations.
+
+# Getting a report on caption count
+
+- Run [`get_caption_count_details.py`](get_caption_count_details.py) file to generate [`caption_count_details.csv`](results/caption_count_details.csv) file that gives the details about caption count. In this csv file, first pat gives number of captions per image, number of images. Next part gives the Number of captions per image, image name, and captions.

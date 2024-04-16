@@ -17,7 +17,7 @@ if file_path:
     # Populate the dictionary with unique captions for each image
     for annotation in data["annotations"]:
         image_id = annotation["image_id"]
-        caption = annotation["caption"]
+        caption = annotation["caption"].replace('\n',' ')
         unique_captions[image_id].append(caption)
 
     # Create a new JSON structure with annotations containing only unique captions
