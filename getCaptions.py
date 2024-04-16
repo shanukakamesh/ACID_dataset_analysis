@@ -2,6 +2,9 @@ import json
 from collections import defaultdict
 from textblob import TextBlob
 from nltk.corpus import wordnet
+import spacy
+
+from tqdm import tqdm
 
 #Enter the file path to the captioning annotation file in COCO format (.json files)
 file_path = "D:\ACID dataset\Dataset\Captioning Annotation (COCO format).json"
@@ -23,8 +26,6 @@ if file_path:
             caption_mapping[file_name] = [caption]
         else:
             caption_mapping[file_name].append(caption)
-
-import spacy
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -68,10 +69,6 @@ def correct_spelling(tasks_actions):
     return corrected_tasks_actions
 
 # Extract tasks/actions/interactions from captioning data
-
-from tqdm import tqdm
-import time
-
 total_iterations = len(captioning_data)
 progress_bar = tqdm(total=total_iterations, desc="Processing")
 
@@ -87,7 +84,6 @@ for caption in captioning_data:
     for task in merged_tasks_actions:
         if task not in actions:
             actions.append(task)
-    time.sleep(0.1)
     progress_bar.update(1)
 progress_bar.close()
 
