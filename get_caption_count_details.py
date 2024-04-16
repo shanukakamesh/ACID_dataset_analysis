@@ -1,5 +1,4 @@
 import json
-import matplotlib.pyplot as plt
 import numpy as np
 
 #Enter the file path to the captioning annotation file in COCO format (.json files)
@@ -23,7 +22,6 @@ if file_path:
             caption_mapping[file_name] = [caption]
         else:
             caption_mapping[file_name].append(caption)
-total_captions = 0
 
 caption_count_data = {}
 for key, value in caption_mapping.items():

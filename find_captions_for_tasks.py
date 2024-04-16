@@ -1,6 +1,5 @@
 import json
 from tqdm import tqdm
-import time
 
 #Enter the file path to the captioning annotation file in COCO format (.json files)
 file_path = "D:\ACID dataset\Dataset\Captioning Annotation (COCO format).json"
@@ -49,7 +48,6 @@ for word in words:
     if temp:
         result[word[0]] = temp
         results.append([result,word[0]])
-    time.sleep(0.1)
     progress_bar.update(1)
 progress_bar.close()
 
